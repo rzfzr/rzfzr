@@ -1,3 +1,2 @@
-### Hi there 👋
 - 🔭 I’m currently working on my Master's degree
 - 📫 How to reach me: clicnet.com.br@gmail.com
