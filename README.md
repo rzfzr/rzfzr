@@ -13,20 +13,20 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=rzfzr&column=9&margin-w=15&margin-h=15&theme=oldie" alt="rzfzr" />
+   <img src="https://github-profile-trophy.vercel.app/?username=rzfzr&column=9&margin-w=1&margin-h=10&theme=oldie" alt="rzfzr" />
  </a> 
 </p>
 
 <p align="center">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rzfzr&show_icons=true&locale=en&layout=compact&hide_progress=true&langs_count=10" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rzfzr&show_icons=true&locale=en&layout=compact&hide_progress=true&langs_count=8&theme=graywhite" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=180  align="center" src="https://github-readme-stats.vercel.app/api?username=rzfzr&show_icons=true&locale=en&hide_title=true&hide_rank=false&rank_icon=percentile" />
 </a> -->
 <a href="https://git.io/streak-stats">
-  <img height=200  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rzfzr&theme=icegray&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
+  <img height=165  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rzfzr&theme=icegray&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=165" alt="GitHub Streak" />
 </a>
 </p>
 
